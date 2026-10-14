@@ -1,0 +1,11 @@
+# Go
+/server
+*.exe
+
+# Env
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/package-lock.json
+frontend/dist/
